@@ -1,0 +1,41 @@
+/*General Structure of the Page-----------------------------------------------------------------*/
+@import url("C:/Users/mervi/Desktop/UofT/Basic-Portfolio/assets/css/Main.css");
+
+/*Contact Page Formatting-----------------------------------------------------------------------*/
+input[type=text], select {
+    width: 100%;
+    padding: 12px 3px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    box-sizing: border-box;
+    
+}
+
+form {
+    margin-top: 15px;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+/*this is the formatting for the message box in the form*/
+#message {
+    margin-top:10px;
+    width:955px;
+    height:150px;
+    border-color: #ccc;
+}
+
+/*submit button formatting*/
+input[type=submit] {
+    width: 115px;
+    height: 41px;
+    background-color: #4aaaa5;
+    color: white;
+    border:none;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor:pointer;
+    font-size:20px;
+}
+
+/*Portfolio Page Formatting--------------------------------------------------------------------*/
