@@ -1,2 +1,84 @@
+.hangman {
+    position: relative;
+    float:left;
+    text-align: center;
+}
 
+.pic1 {
+    width: 241px;
+    padding: 15px;
+    position: absolute;
+    top: 70%;
+    transform: translate(-50%, -50%);
+    background-color:#4aaaa5;
+    color:white;
+    font-size: 35px;
+}
 
+.info {
+    position: relative;
+    float:left;
+    text-align: center;
+}
+
+.pic2 {
+    width: 241px;
+    padding: 15px;
+    position: absolute;
+    top: 70%;
+    transform: translate(-50%, -50%);
+    background-color:#4aaaa5;
+    color:white;
+    font-size: 35px;
+}
+
+.rps {
+    position: relative;
+    float:left;
+    text-align: center;
+}
+
+.pic3 {
+    width: 241px;
+    padding: 15px;
+    position: absolute;
+    top: 70%;
+    transform: translate(-50%, -50%);
+    background-color:#4aaaa5;
+    color:white;
+    font-size: 35px;
+}
+
+.rpg {
+    position: relative;
+    float:left;
+    text-align: center;
+}
+
+.pic4 {
+    width: 241px;
+    padding: 15px;
+    position: absolute;
+    top: 70%;
+    transform: translate(-50%, -50%);
+    background-color:#4aaaa5;
+    color:white;
+    font-size: 35px;
+}
+
+.trivia {
+    position: relative;
+    float:left;
+    text-align: center;
+}
+
+.pic5 {
+    width: 241px;
+    padding: 15px;
+    position: absolute;
+    top: 70%;
+    transform: translate(-50%, -50%);
+    background-color:#4aaaa5;
+    color:white;
+    font-size: 35px;
+}
